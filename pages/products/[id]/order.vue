@@ -1,11 +1,12 @@
 <template>
   <div>
-    Products
+    ORDER
     <p>Product ID: {{ id }}</p>
+
   </div>
 </template>
 
-<script lang="js">
+<script lang="ts">
 import { defineComponent } from 'vue'
 
 
